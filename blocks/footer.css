@@ -15,7 +15,7 @@
     height: 39px;
 }
 
-.footer_column-heading {
+.footer__column-heading {
     margin: 0 0 20px;
 }
 
@@ -47,6 +47,6 @@
     margin-right: 10px;
 }
 
-.footer_copyright {
+.footer__copyright {
     margin: 108px 0 0;
 }
