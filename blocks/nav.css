@@ -19,7 +19,8 @@
 }
 
 .nav__link {
-   font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter", Arial, sans-serif;
+    color: #ffff;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
